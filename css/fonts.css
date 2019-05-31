@@ -1,0 +1,27 @@
+@font-face {
+    font-family: '../ninobold';
+    src: url('../fonts/bpgninomtavruliboldwebfont.eot');
+    src: url('../fonts/bpgninomtavruliboldwebfont.eot') format('embedded-opentype'),
+         url('../fonts/bpgninomtavruliboldwebfont.woff2') format('woff2'),
+         url('../fonts/bpgninomtavruliboldwebfont.woff') format('woff'),
+         url('../fonts/bpgninomtavruliboldwebfont.ttf') format('truetype'),
+         url('../fonts/bpgninomtavruliboldwebfont.svg#bpgninomtavruliboldwebfont') format('svg');
+}
+@font-face {
+    font-family: 'ninoregular';
+    src: url('../fonts/bpgninomtavruliwebfont.eot');
+    src: url('../fonts/bpgninomtavruliwebfont.eot') format('embedded-opentype'),
+         url('../fonts/bpgninomtavruliwebfont.woff2') format('woff2'),
+         url('../fonts/bpgninomtavruliwebfont.woff') format('woff'),
+         url('../fonts/bpgninomtavruliwebfont.ttf') format('truetype'),
+         url('../fonts/bpgninomtavruliwebfont.svg#bpgninomtavruliwebfont') format('svg');
+}
+@font-face {
+    font-family: 'ingiriarial';
+    src: url('../fonts/bpgingiriarialwebfont.eot');
+    src: url('../fonts/bpgingiriarialwebfont.eot') format('embedded-opentype'),
+         url('../fonts/bpgingiriarialwebfont.woff2') format('woff2'),
+         url('../fonts/bpgingiriarialwebfont.woff') format('woff'),
+         url('../fonts/bpgingiriarialwebfont.ttf') format('truetype'),
+         url('../fonts/bpgingiriarialwebfont.svg#bpgingiriarialwebfont') format('svg');
+}
